@@ -1,8 +1,10 @@
 👋 Hi, I’m Ria!
 
-👀 I’m interested in data science and data analysis projects. I enjoy creating automation scripts. I have created a couple scripts to reduce manual tasks using Python. 
-I started my career as an ETL developer and having worked for 4+ years with retail and insurance business domain I decided to pursue my Masters in Big Data. 
-During my Masters, I realized that I really liked statistics and so now I use every opportunity to learn something new in it. After graduating, I have worked as a Data scientist in real estate business. During this time, I have worked on a major project to develop a new predictive model as well as developed a few dashboards showing useful metrics for business decisions.
+👀 I'm a data science enthusiast with a passion for automating tasks and diving into data analysis. With a background as an ETL developer in the retail and insurance sectors for over 4 years, I decided to pursue a Masters in Big Data. During my studies, I developed a strong interest in statistics, which I continue to explore and learn about.
+
+After completing my Masters, I transitioned into the role of a Data Scientist in the real estate industry. Notably, I led a significant project focused on building a predictive model and created informative dashboards to facilitate business decision-making. I have continued working as a data analyst in the real estate domain and acquainted myself on advanced data modelling and visualization on the way.
+
+I thrive on new challenges and constantly seek opportunities to expand my expertise in data science. If you have any exciting projects related to data analysis, automation, or statistical applications, I'm eager to collaborate and contribute.
 
 :memo: Check out my recent Medium posts!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@riat06/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@riat06/0" alt="Recent Article 0">
